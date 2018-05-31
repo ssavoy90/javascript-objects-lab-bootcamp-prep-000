@@ -1,2 +1,2 @@
-var recipes = {key: 'value'};
+var recipes = {};
 
